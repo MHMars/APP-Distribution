@@ -19,7 +19,7 @@
                     <key>needs-shine </key>
                     <true/>
                     <key>url</key>
-                    <string> </string>
+                    <string>https://mhmars.github.io/APP-Distribution/icon-57.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine </key>
                     <true/>
                     <key>url</key>
-                    <string> </string>
+                    <string>https://mhmars.github.io/APP-Distribution/icon-512.png</string>
                 </dict>
 			</array>
 			<key>metadata</key>
