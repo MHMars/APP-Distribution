@@ -14,27 +14,27 @@
 					<string>https://mhmars.github.io/APP-Distribution/EverStarIOSCode%20.ipa</string>
 				</dict>
 				<dict>
-                    <key>kind</key>
-                    <string>display-image </string>
-                    <key>needs-shine </key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://mhmars.github.io/APP-Distribution/icon-57.png</string>
-                </dict>
-                <dict>
-                    <key>kind</key>
-                    <string>full-size-image </string>
-                    <key>needs-shine </key>
-                    <true/>
-                    <key>url</key>
-                    <string>https://mhmars.github.io/APP-Distribution/icon-512.png</string>
-                </dict>
+					<key>kind</key>
+					<string>display-image </string>
+					<key>needs-shine </key>
+					<true/>
+					<key>url</key>
+					<string>https://mhmars.github.io/APP-Distribution/icon-57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image </string>
+					<key>needs-shine </key>
+					<true/>
+					<key>url</key>
+					<string>https://mhmars.github.io/APP-Distribution/icon-512.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifiler</key>
+				<key>bundle-identifier</key>
 				<string>com.xinghengedu.EverStarCollection999</string>
-				<key>bundel-version</key>
+				<key>bundle-version</key>
 				<string>2.0.4</string>
 				<key>kind</key>
 				<string>software</string>
