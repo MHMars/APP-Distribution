@@ -14,7 +14,7 @@
 					<string>https://mhmars.github.io/APP-Distribution/EverStarIOSCode%20.ipa</string>
 				</dict>
 				<dict>
-                <key>kind</key>
+                    <key>kind</key>
                     <string>display-image </string>
                     <key>needs-shine </key>
                     <true/>
